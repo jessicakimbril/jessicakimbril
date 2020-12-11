@@ -4,5 +4,5 @@ Hey, I'm Jessica! I am a Data Scientist who is passionate about Nerual Networks 
 
 - :fire: I’m currently learning: PyTorch
 - 💬 Ask me about: Anything!
-- :hash: Best way to reach me: [Twitter](https://twitter.com/j_kimbril)
+- :iphone: Best way to reach me: [Twitter](https://twitter.com/j_kimbril)
 - :video_game: Fun fact: I **LOVE** video games! :heart_eyes:
