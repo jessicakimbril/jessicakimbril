@@ -1,6 +1,6 @@
 ### Hello! :wave::woman_technologist:
 
-Hey, I'm Jessica! I am a Data Scientist who is passionate about Nerual Networks and Data Ethics and how they can improve peoples lives.
+Hey, I'm Jessica, but everyone just calls me Jess! I am passionate about Nerual Networks and Data Ethics and how they can improve peoples lives.
 
 - :brain: Languages: Python :snake:
 - :books: I’m currently learning: PyTorch :fire:
